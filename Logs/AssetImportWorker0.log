@@ -140,3 +140,4 @@ Received Import Request.
 Start importing Assets/testBG.png using Guid(92d6003a0ddb9bd48849ff90e10ec5a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0aca45e982943506153a629da0dbd65') in 0.518326 seconds 
   Import took 0.529156 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
